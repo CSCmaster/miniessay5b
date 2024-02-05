@@ -1,0 +1,64 @@
+---
+title: "Exploring the evolving landscape of nonresponse, its impact on survey methodologies and the remediation strategies proposed in the curated virtual issue."
+title-block-banner: true
+author: "Jingyi Shen"
+date: today
+date-format: long
+format: pdf
+number-sections: true
+thanks: "Code and data supporting this analysis are available at: https: //github.com/CSCmaster/miniessay5b"
+---
+
+# introduction
+
+The editorial on "Nonresponse Rates and Nonresponse Adjustments" sheds light on the intricate challenges faced by survey methodologists and statisticians in ensuring the accuracy and timeliness of survey outcomes. The core motivation for sampling is to obtain precise estimates, yet the reality of nonresponse, both in terms of unit and item nonresponse, poses significant hurdles. This discussion focuses on exploring the evolving landscape of nonresponse, its impact on survey methodologies, and the remediation strategies proposed in the curated virtual issue.
+
+# **Trends in Response Rates Across Modes**
+
+The initial set of papers emphasizes the changing response rates and respondent composition over time and across different data collection modes. Williams and Brick (2018), Dutwin and Buskirk (2020), and Daikeler et al. (2020) collectively illustrate a consistent decline in response rates across various modes, with web surveys exhibiting lower response rates. These findings raise crucial questions about the continued trends beyond 2022, the impact of changing response rates on biases, and the variations in study designs across data collection modes.
+
+# **Building Theory-Driven Nonresponse Propensity Models**
+
+The initial set of papers emphasizes the changing response rates and respondent composition over time and across different data collection modes. Williams and Brick (2018), Dutwin and Buskirk (2020), and Daikeler et al. (2020) collectively illustrate a consistent decline in response rates across various modes, with web surveys exhibiting lower response rates. These findings raise crucial questions about the continued trends beyond 2022, the impact of changing response rates on biases, and the variations in study designs across data collection modes.
+
+# **Building Theory-Driven Nonresponse Propensity Models**
+
+Understanding the response mechanism is pivotal for effective remediation. Wagner et al. (2014), Amaya and Harring (2017), and Peytchev et al. (2018) delve into constructing theory-driven nonresponse propensity models at the individual level. While Wagner et al. (2014) highlight the limitations of survey effort variables in predicting survey participation, Amaya and Harring (2017) and Peytchev et al. (2018) emphasize the predictive strength of measures of civic engagement. The incorporation of such variables into surveys for nonresponse adjustment, even as secondary survey objectives, emerges as a valuable strategy.
+
+# **Balancing Sample and Nonresponse Adjustment Calibration Weighting**
+
+Sӓrndal and Lundquist (2014) contribute to the discussion by addressing the balance between using auxiliary variables for sample balancing during data collection or post-data collection adjustment. Their proposal for monitoring the Imbalance Statistic and planning interventions to reduce response propensities' variation provides insights into the effectiveness of incorporating both data collection adaptations and postsurvey adjustments.
+
+# **Appropriate Post-Data Treatment for Nonresponse**
+
+Han and Valliant (2021) assess the conditions and performance of general calibration models and alternatives like poststratification and raking on survey data with ignorable nonresponse. Berg, Kim, and Skinner (2016) distinguish between missing at random in the population (PMAR) and missing at random in the sample (SMAR), emphasizing the importance of accounting for the sampling design in imputation parameters. Riddles, Kim, and Im (2016) propose a propensity-score-weighting approach under a not missing at random (NMAR) response mechanism, challenging the assumption of MCAR in nonresponse adjustment.
+
+# **Multiple Imputation with Weights**
+
+Quartagno, Carpenter, and Goldstein (2019) present a compelling case for including weights in the multiple imputation model, addressing the challenges of incorporating survey weights into imputation models. Their proposed approach, explored through simulation and empirical data application, offers a nuanced perspective on leveraging survey weights within the multiple imputation framework.
+
+# **Conclusion**
+
+The editorial and the curated virtual issue provide a comprehensive exploration of the evolving landscape of nonresponse in survey methodology. The presented papers collectively contribute valuable insights into the challenges posed by declining response rates, the construction of theory-driven nonresponse propensity models, and the selection of appropriate post-data treatment for nonresponse. As the survey landscape continues to evolve, the methodologies and strategies discussed in these papers pave the way for future research and advancements in the field of survey methodology.
+
+# Reference
+
+[Dutwin, D., and Buskirk, T. D. (2020), "Telephone Sample Surveys: Dearly Beloved or Nearly Departed? Trends in Survey Errors in the Era of Declining Response Rates," *Journal of Survey Statistics and Methodology*, 9 (3), 353-380. DOI: 10.1093/jssam/smz044.](https://academic.oup.com/jssam/article/9/3/353/5758294?searchresult=1)
+
+\
+
+[Daikeler, J., Bošnjak, M., and Lozar Manfreda, K. (2020), "Web Versus Other Survey Modes: An Updated and Extended Meta-Analysis Comparing Response Rates," *Journal of Survey Statistics and Methodology*, 8 (3), 513-539. DOI: 10.1093/jssam/smz008.](https://academic.oup.com/jssam/article/8/3/513/5488703?searchresult=1)
+
+\
+
+[Wagner, J., Valliant, R., Hubbard, F., and Jiang, L. (2014), "Level-of-Effort Paradata and Nonresponse Adjustment Models for a National Face-to-Face Survey," *Journal of Survey Statistics and Methodology*, 2 (4), 410-432. DOI: 10.1093/jssam/smu012.](https://academic.oup.com/jssam/article/2/4/410/2937089?searchresult=1)
+
+[Amaya, A., and Harring, J. R. (2017), "Assessing the Effect of Social Integration on Unit Nonresponse in Household Surveys," *Journal of Survey Statistics and Methodology*, 5 (4), 480-508. DOI: 10.1093/jssam/smx001.](https://academic.oup.com/jssam/article/5/4/480/3745292?searchresult=1)
+
+[Peytchev, A., Presser, S., and Zhang, M. (2018), "Improving Traditional Nonresponse Bias Adjustments: Combining Statistical Properties with Social Theory," *Journal of Survey Statistics and Methodology*, 6 (4), 491-515. DOI: 10.1093/jssam/smx035.](https://academic.oup.com/jssam/article/6/4/491/4791831?searchresult=1)
+
+
+
+[Sӓrndal, C.-E., and Lundquist, P. (2014), "Accuracy in Estimation with Nonresponse: A Function of Degree of Imbalance and Degree of Explanation," *Journal of Survey Statistics and Methodology*, 2 (4), 361-387. DOI: 10.1093/jssam/smu014.](https://academic.oup.com/jssam/article/2/4/361/2937092?searchresult=1)\
+
+
